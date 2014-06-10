@@ -17,6 +17,11 @@ import java.nio.channels.SocketChannel;
 import java.util.Iterator;
 import org.junit.Test;
 
+
+/**
+ * NIO 异步测试
+ * @author Administrator
+ */
 public class NioNonBlockingSelectorTest
 {
     Selector selector;
